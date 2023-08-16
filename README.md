@@ -49,7 +49,3 @@ yarn build
 ```
 
 After that's done, check out `./public` to see the optimized output.
-
----
-
-## Support
