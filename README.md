@@ -7,9 +7,9 @@ To get started:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kamona-WD/starter-dashboard-layout.git
+   git clone https://github.com/Risqiyyyy/Dashboard.Reactjs.git
 
-   cd starter-dashboard-layout
+   cd Dashboard.Reactjs
    ```
 
 2. Install the dependencies:
